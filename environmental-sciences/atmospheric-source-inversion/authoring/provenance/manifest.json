@@ -1,0 +1,16 @@
+{
+  "seed": 20261029,
+  "n_sources": 12,
+  "n_cohorts": 6,
+  "n_receptors": 10,
+  "n_monitors": 6,
+  "n_snapshots": 5,
+  "withheld": {
+    "wind_dir": 260.0,
+    "wind_speed": 1.5,
+    "stability": "F"
+  },
+  "offset_std": 4.0,
+  "sensor_floor": 1.5,
+  "sensor_slope": 0.06
+}

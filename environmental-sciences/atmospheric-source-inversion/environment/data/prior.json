@@ -1,0 +1,13 @@
+{
+  "mu": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sigma_theta": 0.35,
+  "n_cohorts": 6,
+  "admissible": "theta_j in [mu_j - 3*sigma, mu_j + 3*sigma]"
+}
